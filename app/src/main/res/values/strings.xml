@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mis mascotas</string>
+    <string name="titulo_favoritos">Mis mascotas favoritas</string>
+    <!--Nombre de mascotas-->
+</resources>
